@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hackers will Bann By me",
-        "Never Use Xray Because i Can Bann you!",
-        "I am Made By Chummi_Playz"
+        "[AntiCheat] HacksPunisherBot is active. Scanning player movements...",
+        "[AntiCheat] X-Ray, Fly, and KillAura modifications will result in an automatic IP-ban.",
+        "[AntiCheat] Play fair. Report suspicious activity to server administrators."
       ]
     },
     "chat-log": true,
